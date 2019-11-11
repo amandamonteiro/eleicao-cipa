@@ -1,3 +1,20 @@
-{
-    
-}
+[
+    {
+        "id": 1,
+        "nome": "Tifani",
+        "idade": 35,
+        "Departamento": "RH",
+        "cargo": "Diretora",
+        "tempoEmpresa": 1,
+        "foto": "fotos/blacks.jpg"
+    },
+    {
+        "id": 2,
+        "nome": "Rose",
+        "idade": 35,
+        "Departamento": "RH",
+        "cargo": "Diretora",
+        "tempoEmpresa": 1,
+        "foto": "fotos/blacks.jpg"
+    }
+]
